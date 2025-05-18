@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Udonna-cell
 - 👀 I’m interested in building software 
-- 🌱 I’m currently learning php, python, nodejs and SQL 
+- 🌱 I’m currently learning expressjs, python, nodejs and SQL 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: orabuezestanley@gmail.com
 
